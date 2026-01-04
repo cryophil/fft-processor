@@ -436,7 +436,7 @@ function App() {
                     />
                     <div className="footer-section">
                         <div className="university-emblems">
-                            <img src="/university_logo.png" alt="University Emblems" className="emblem-image" />
+                            <img src="university_logo.png" alt="University Emblems" className="emblem-image" />
                         </div>
                         <div className="copyright">
                             <p>© AG Kastritis</p>
